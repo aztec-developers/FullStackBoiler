@@ -4,4 +4,5 @@
  *  and also imports our main.scss file to bundle as well
  */
 import App from './components/app.jsx';
+
 require('./scss/main.scss');

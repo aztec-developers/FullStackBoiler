@@ -12,7 +12,6 @@ import { Layout } from './layout-component/layout.jsx';
  *  be create using JSX in React.
  */
 ReactDOM.render(
-        <Layout />,
-        document.getElementById('root')
-)
-
+  <Layout />,
+  document.getElementById('root'),
+);
